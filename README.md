@@ -1,0 +1,19 @@
+Welcome to Gutenberg Analyzer! Check it out [here](https://gutenberg-analyzer.streamlit.app).
+
+![Landing Page](mainpage.png)
+
+This project scrapes the top 100 ebooks from the previous day, shows an excerpt from the book, and analyzes the polarity and subjectivity of the book, both overall...
+
+![Overall](overall.png)
+
+...and throughout the text.
+
+![Detaileed](detailed.png)
+
+You can also compare multiple books at once...
+
+![Compare](compare.png)
+
+...and search for a book (if it is in the top 100).
+
+![Search](search.png)
