@@ -22,5 +22,6 @@ Known Errors:
 
 1. Clicking "Clear Comparisons" causes an error that breaks the search field and then the entire site unless the search field is hidden and shown again and the "Add to comparisons" checkbox is unticked (comparisons and the rest of the site will then continue to function).
 2. The "Author" and "Year" fields show 'Unknown'.
+3. Books in languages other than English have no sentiment analysis.
 
 Find more errors? Please create a PR!
