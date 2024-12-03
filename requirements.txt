@@ -1,7 +1,7 @@
-requests==2.31.0
-beautifulsoup4==4.12.2
-pandas==1.5.3
-textblob==0.17.1
-streamlit==1.20.0
-plotly==5.10.0
-numpy==1.23.5
+requests
+bs4
+pandas
+textblob
+streamlit
+plotly
+numpy
