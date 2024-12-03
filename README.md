@@ -17,3 +17,10 @@ You can also compare multiple books at once...
 ...and search for a book (if it is in the top 100).
 
 ![Search](search.png)
+
+Known Errors:
+
+1. Clicking "Clear Comparisons" causes an error.
+2. The "Author" and "Year" fields show 'Unknown'.
+
+Find more errors? Please create a PR!
